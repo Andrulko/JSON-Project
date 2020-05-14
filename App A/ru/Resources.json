@@ -1,5 +1,5 @@
 {
-    "welcome": "Привет, {name}!",
+    "welcome": "Здравствуй, {name}!",
     "save_as": "Сохранить как {0}",
     "view": "Осмотреть %s",
     "about": "О %d...",
@@ -7,6 +7,6 @@
     "current_password": "Текущий пароль &lt;br&gt;",
     "new_password": "Новый пароль",
     "confirm_password": "Подтвердить пароль",
-    "toggle_view": "Toggle view",
-    "weather": "Weather"
+    "toggle_view": "Вид переключения",
+    "weather": "Погода"
 }
