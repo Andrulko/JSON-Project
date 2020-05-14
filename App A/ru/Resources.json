@@ -6,7 +6,5 @@
     "about_me": "О мне $NAME$",
     "current_password": "Текущий пароль &lt;br&gt;",
     "new_password": "Новый пароль",
-    "confirm_password": "Подтвердить пароль",
-    "toggle_view": "Вид переключения",
-    "weather": "Погода"
+    "confirm_password": "Подтвердить пароль"
 }
