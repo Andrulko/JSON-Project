@@ -1,0 +1,10 @@
+{
+"welcome": "Привет, {name}!",
+"save_as": "Сохранить как {0}",
+"view": "Осмотреть %s",
+"about": "О %d...",
+"about_me": "О мне $NAME$",
+"current_password": "Текущий пароль &lt;br&gt;",
+"new_password": "Новый пароль",
+"confirm_password": "Подтвердить пароль"
+}
