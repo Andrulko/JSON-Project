@@ -1,0 +1,14 @@
+{
+    "welcome": "crwdns100:0{name}crwdne100:0",
+    "save_as": "crwdns102:0{0}crwdne102:0",
+    "view": "crwdns104:0%scrwdne104:0",
+    "about": "crwdns106:0%dcrwdne106:0",
+    "about_me": "crwdns108:0$NAME$crwdne108:0",
+    "current_password": "crwdns110:0crwdne110:0",
+    "new_password": "crwdns112:0crwdne112:0",
+    "confirm_password": "crwdns114:0crwdne114:0",
+    "toggle_view": "crwdns116:0crwdne116:0",
+    "weather": "crwdns118:0crwdne118:0",
+    "weather_new": "crwdns120:0crwdne120:0",
+    "hello_world": "crwdns144:0crwdne144:0"
+}
