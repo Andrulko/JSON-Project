@@ -9,5 +9,6 @@
     "confirm_password": "Confirm New Password",
     "toggle_view": "Toggle view",
     "weather": "Weather",
-    "weather_new": "Hello Hello"
+    "weather_new": "Hello Hello",
+    "hello_world": "New text"
 }
