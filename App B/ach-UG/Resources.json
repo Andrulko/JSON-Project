@@ -1,0 +1,13 @@
+{
+    "change_password": "crwdns122:0crwdne122:0",
+    "password_recover": "crwdns124:0crwdne124:0",
+    "password_reset_success": "crwdns126:0crwdne126:0",
+    "read_message": "crwdns128:0crwdne128:0",
+    "confirm_delete": "crwdns130:0crwdne130:0",
+    "search_in_messages": "crwdns132:0crwdne132:0",
+    "compose_messages": "crwdns134:0crwdne134:0",
+    "no_data": "crwdns136:0crwdne136:0",
+    "quick_start": "crwdns138:0crwdne138:0",
+    "feedback": "crwdns140:0crwdne140:0",
+    "launch_app": "crwdns142:0crwdne142:0"
+}
