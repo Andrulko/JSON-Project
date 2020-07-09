@@ -1,11 +1,13 @@
 {
-"change_password": "Изменить пароль",
-"password_recover": "Восстановить пароль",
-"password_reset_success": "Ваш пароль изменен успешно!",
-"read_message": "Прочитать сообщение",
-"confirm_delete": "Вы уверены, что хотите удалить сообщение?",
-"search_in_messages": "Поиск в сообщениях",
-"compose_messages": "Написать сообщение",
-"no_data": "Дата не указана",
-"quick_start": "Быстрый старт"
+    "change_password": "Изменить пароль",
+    "password_recover": "Восстановить пароль",
+    "password_reset_success": "Ваш пароль изменен успешно!",
+    "read_message": "Прочитать сообщение",
+    "confirm_delete": "Вы уверены, что хотите удалить сообщение?",
+    "search_in_messages": "Поиск в сообщениях",
+    "compose_messages": "Написать сообщение",
+    "no_data": "Дата не указана",
+    "quick_start": "Быстрый старт",
+    "feedback": "Hey, please give us feedback on App B!",
+    "launch_app": "Launch application"
 }
