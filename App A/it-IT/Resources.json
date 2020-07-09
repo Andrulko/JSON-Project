@@ -1,5 +1,5 @@
 {
-    "welcome": "",
+    "welcome": "Benvenuto, {name}!",
     "save_as": "",
     "view": "",
     "about": "",
