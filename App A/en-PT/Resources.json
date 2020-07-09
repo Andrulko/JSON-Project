@@ -1,0 +1,14 @@
+{
+    "welcome": "Hello {name}!",
+    "save_as": "Hello {0}",
+    "view": "View %s",
+    "about": "About %d...",
+    "about_me": "About Me $NAME$",
+    "current_password": "Current Password &lt;br&gt;",
+    "new_password": "New Password",
+    "confirm_password": "Confirm New Password",
+    "toggle_view": "Toggle view",
+    "weather": "Weather",
+    "weather_new": "Hello Hello",
+    "hello_world": "New text"
+}
