@@ -7,8 +7,9 @@
     "current_password": "Текущий пароль &lt;br&gt;",
     "new_password": "Новый пароль",
     "confirm_password": "Подтвердить пароль",
-    "toggle_view": "Toggle view",
-    "weather": "Weather",
-    "weather_new": "Hello Hello",
-    "hello_world": "New text"
+    "toggle_view": "",
+    "weather": "",
+    "weather_new": "",
+    "hello_world": "",
+    "new_key": ""
 }
