@@ -1,14 +1,16 @@
 {
-    "welcome": "Welcome, {name}!",
-    "save_as": "Save as {0}",
-    "view": "View %s",
-    "about": "About %d...",
-    "about_me": "About Me $NAME$",
-    "current_password": "Current Password &lt;br&gt;",
-    "new_password": "New Password",
-    "confirm_password": "Confirm New Password",
-    "toggle_view": "Toggle view",
-    "weather": "Weather",
-    "weather_new": "Hello Hello",
-    "hello_world": "New text"
+    "welcome": "",
+    "save_as": "",
+    "view": "",
+    "about": "",
+    "about_me": "",
+    "current_password": "",
+    "new_password": "",
+    "confirm_password": "",
+    "toggle_view": "",
+    "weather": "",
+    "weather_new": "",
+    "hello_world": "",
+    "new_key": "",
+    "new_key2": ""
 }
