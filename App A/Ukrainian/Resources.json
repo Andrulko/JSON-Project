@@ -1,5 +1,5 @@
 {
-    "welcome": "Welcome, {name}!",
+    "welcome": "Welcome, {name}",
     "save_as": "Save as {0}",
     "view": "View %s",
     "about": "About %d...",
@@ -11,6 +11,5 @@
     "weather": "Weather",
     "weather_new": "Hello Hello",
     "hello_world": "New text",
-    "new_key": "New text July",
-    "new_key2": "New text August"
+    "new_key_may": "New text May"
 }
