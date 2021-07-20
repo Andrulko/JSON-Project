@@ -1,7 +1,8 @@
 {
-    "welcome": "Welcome, {name}",
-    "save_as": "Save as {0}",
-    "view": "View %s",
-    "about": "About me %d...",
-    "about_me": "About Me $NAME$"
+    "welcome": "Welcome {name}",
+    "save_as": "Save {0}",
+    "view": "Test %s",
+    "about": "About %d...",
+    "about_me": "About Me $NAME$",
+    "new_string": "Hello World"
 }
