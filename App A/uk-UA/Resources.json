@@ -1,8 +1,8 @@
 {
-    "welcome": "Welcome, {name}",
-    "save_as": "Save as {0}",
-    "view": "View %s",
-    "about": "About %d...",
-    "about_me": "About Me $NAME$",
-    "new_string": "Hello World"
+    "welcome": "Вітаємо {name}",
+    "save_as": "Зберегти {0}",
+    "view": "Тест %s",
+    "about": "Про %d...",
+    "about_me": "Про мене $NAME$",
+    "new_string": "Привіт, народ"
 }
