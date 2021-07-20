@@ -1,7 +1,7 @@
 {
-    "welcome": "Welcome, {name}",
-    "save_as": "Save as {0}",
-    "view": "View %s",
-    "about": "About %d...",
-    "about_me": "About Me $NAME$"
+    "welcome": "Bienvenue, {name}",
+    "save_as": "Enregistrer en tant que {0}",
+    "view": "Voir %s",
+    "about": "Environ %d...",
+    "about_me": "À propos de moi $NAME$"
 }
