@@ -1,0 +1,7 @@
+{
+    "welcome": "Welcome, {name}",
+    "save_as": "Save as {0}",
+    "view": "View %s",
+    "about": "About %d...",
+    "about_me": "About Me $NAME$"
+}
