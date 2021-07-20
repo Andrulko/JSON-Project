@@ -3,5 +3,6 @@
     "save_as": "Enregistrer en tant que {0}",
     "view": "Voir %s",
     "about": "Environ %d...",
-    "about_me": "À propos de moi $NAME$"
+    "about_me": "À propos de moi $NAME$",
+    "new_string": "Hello World"
 }
